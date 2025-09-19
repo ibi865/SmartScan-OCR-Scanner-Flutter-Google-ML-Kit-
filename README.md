@@ -26,7 +26,7 @@ It enables users to capture text from images, import from gallery, enhance recog
 ## 📸 Screenshots
 <p align="center">
   <img src="Screenshots/home.png" alt="Home" height="400"/> 
-  <img src="Screenshots/recognize .png"alt="Camera" height="400"/>
+  <img src="Screenshots/recognize.png"alt="Camera" height="400"/>
 </p>
 
 <p align="center">
